@@ -1,3 +1,4 @@
+## 見える
 ## Past tense
 |Dictionary form|Past tense|||
 |---|---|---|---|
