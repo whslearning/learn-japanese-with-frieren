@@ -1,8 +1,11 @@
 ## 王...
-### ~える
-* 見える
+### ~うる
+* 見うる
 ### Past tense
 |Dictionary form|Past tense|Polite form||Note|
 |---|---|---|---|---|
 |~ます|~ました|||
-|来る (くる)|きた|きます|きました|Irregular verb|
+|来る|きた|きます|きました|Irregular verb|
+### て-form
+### ~ね
+### が
