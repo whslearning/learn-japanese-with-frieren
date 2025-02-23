@@ -25,7 +25,7 @@
 ## 大...
 ### な-adjective
 ### ~さ
-## 魔
+## 魔...
 ## Past tense
 |う-verb|て-form|Past tense|Note|
 |---|---|---|---|
@@ -36,3 +36,7 @@
 * 言う -> 言って
 ## Noun + じゃない
 * Genki 1 p. 190
+## こ...
+### の
+* この先 and 人生
+* 人生 and ほう (方 side)
