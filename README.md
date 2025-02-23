@@ -28,5 +28,5 @@
 |う-verb|て-form|Past tense|Note|
 |---|---|---|---|
 |倒す|倒して|倒した|Genki 1 p. 214|
-## じゃない
+## Noun + じゃない
 * Genki 1 p. 190
