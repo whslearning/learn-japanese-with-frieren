@@ -23,3 +23,8 @@
 ## 大...
 ### な-adjective
 ### ~さ
+## 魔
+## Past tense
+|う-verb|て-form|Past tense|Note|
+|---|---|---|---|
+|倒す|倒して|倒した|Genki 1 p. 214|
