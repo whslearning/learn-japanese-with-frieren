@@ -44,3 +44,7 @@
 ## そ...
 ### そうですか
 * Genki 1 p. 44
+## 君...
+### できる
+* https://www.tofugu.com/japanese-grammar/verb-potential-form-reru/
+### ほど
