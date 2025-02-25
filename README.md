@@ -48,3 +48,10 @@
 ### できる
 * https://www.tofugu.com/japanese-grammar/verb-potential-form-reru/
 ### ほど
+## 長...
+### もの
+### なる
+### ん
+### だろう
+* https://www.tofugu.com/japanese-grammar/darou/
+* https://www.tofugu.com/japanese-grammar/deshou/
