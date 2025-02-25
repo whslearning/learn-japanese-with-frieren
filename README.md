@@ -55,3 +55,5 @@
 ### だろう
 * https://www.tofugu.com/japanese-grammar/darou/
 * https://www.tofugu.com/japanese-grammar/deshou/
+## そ...
+### かも
