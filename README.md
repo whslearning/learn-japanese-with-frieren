@@ -1,14 +1,18 @@
 ## 王...
-### ~うる
-* 見うる
-### Past tense
-|Dictionary form|Past tense|Polite form||Note|
-|---|---|---|---|---|
-|~ます|~ました|||
-|来る|きた|きます|きました|Irregular verb|
-### て-form
-### ~ね
-### が
+### Vocabulary
+| Word | Romaji | Meaning |
+|---|---|---|
+| <ruby>王<rp>【</rp><rt>おう</rt><rp>】</rp>都<rt>と</rt></ruby> | ōto | royal capital |
+| <ruby>見<rp>【</rp><rt>み</rt><rp>】</rp>える<rt></rt></ruby> | mieru  | to be seen |
+| <ruby>来<rp>【</rp><rt>く</rt><rp>】</rp>る<rt></rt></ruby> | kuru | to come |
+## 私...
+### Vocabulary
+| Word | Romaji | Meaning |
+|---|---|---|
+| <ruby>私<rp>【</rp><rt>わたし</rt><rp>】</rp>達<rp>【</rp><rt>たち</rt><rp>】</rp></ruby> | watashitachi | we |
+| <ruby>勇<rp>【</rp><rt>ゆう</rt><rp>】</rp>者<rp>【</rp><rt>しゃ</rt><rp>】</rp></ruby> | yūsha | hero |
+| <ruby>一<rp>【</rp><rt>いち</rt><rp>】</rp>行<rp>【</rp><rt>こう</rt><rp>】</rp></ruby> | ikkō | party |
+| <ruby>凱<rp>【</rp><rt>がい</rt><rp>】</rp>旋<rp>【</rp><rt>せん</rt><rp>】</rp></ruby> | gaisen | triumphant return |
 ## 盛...
 ### ~ている
 ### でしょう
