@@ -5,6 +5,7 @@
 | <ruby>話<rp>【</rp><rt>わ</rt><rp>】</rp></ruby> | wa | counter for stories |
 | <ruby>冒<rp>【</rp><rt>ぼう</rt><rp>】</rp>険<rp>【</rp><rt>けん</rt><rp>】</rp></ruby> | bōken | adventure |
 | <ruby>終<rp>【</rp><rt>お</rt><rp>】</rp>わり<rt></rt></ruby> | owari | end |
+## 王...
 ### Vocabulary
 | Word | Romaji | Meaning |
 |---|---|---|
