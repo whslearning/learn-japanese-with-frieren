@@ -24,7 +24,6 @@
 | Word | Romaji | Meaning |
 |---|---|---|
 | <ruby>盛<rp>【</rp><rt>も</rt><rp>】</rp>り<rt></rt>上<rp>【</rp><rt>あ</rt><rp>】</rp>がる<rt></rt></ruby> | moriagaru | to swell |
-| つて | tsute | means of making contact |
 | いる | iru | to be (of animate objects) |
 | でしょう | deshō | it seems |
 ## 帰...
