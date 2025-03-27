@@ -27,15 +27,20 @@
 | いる | iru | to be (of animate objects) |
 | でしょう | deshō | it seems |
 ## 帰...
-### ~たら
-### ~ないといけない
-* と
-* 行けない
-### ~な
+### Vocabulary
+| Word | Romaji | Meaning |
+|---|---|---|
+| <ruby>帰<rp>【</rp><rt>かえ</rt><rp>】</rp>る<rt></rt></ruby> | kaeru | to return |
+| <ruby>仕<rp>【</rp><rt>し</rt><rp>】</rp>事<rp>【</rp><rt>ごと</rt><rp>】</rp></ruby> | shigoto | work |
+| <ruby>探<rp>【</rp><rt>さが</rt><rp>】</rp>す<rt></rt></ruby> | sagasu | to search for |
 ## も...
-### もう
-### そんなこと
-### んだ
+### Vocabulary
+| Word | Romaji | Meaning |
+|---|---|---|
+| もう | mō | already |
+| そんな | sonna | such |
+| こと | koto | thing |
+| <ruby>考<rp>【</rp><rt>かんが</rt><rp>】</rp>える<rt></rt></ruby> | kangaeru | to think (about, of) |
 ## 大...
 ### な-adjective
 ### ~さ
