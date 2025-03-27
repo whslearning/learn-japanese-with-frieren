@@ -14,8 +14,13 @@
 | <ruby>一<rp>【</rp><rt>いち</rt><rp>】</rp>行<rp>【</rp><rt>こう</rt><rp>】</rp></ruby> | ikkō | party |
 | <ruby>凱<rp>【</rp><rt>がい</rt><rp>】</rp>旋<rp>【</rp><rt>せん</rt><rp>】</rp></ruby> | gaisen | triumphant return |
 ## 盛...
-### ~ている
-### でしょう
+### Vocabulary
+| Word | Romaji | Meaning |
+|---|---|---|
+| <ruby>盛<rp>【</rp><rt>も</rt><rp>】</rp>り<rp>【</rp><rt></rt><rp>】</rp>上<rp>【</rp><rt>あ</rt><rp>】</rp>がる</ruby> | moriagaru | to swell |
+| <ruby>つて</ruby> | tsute | means of making contact |
+| <ruby>いる</ruby> | iru | to be (of animate objects) |
+| <ruby>でしょう</ruby> | deshō | it seems |
 ## 帰...
 ### ~たら
 ### ~ないといけない
