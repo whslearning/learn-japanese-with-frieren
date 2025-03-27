@@ -43,37 +43,34 @@
 | こと | koto | thing |
 | <ruby>考<rp>【</rp><rt>かんが</rt><rp>】</rp>える<rt></rt></ruby> | kangaeru | to think (about, of) |
 ## 大...
-### な-adjective
-### ~さ
+### Vocabulary
+| Word | Romaji | Meaning |
+|---|---|---|
+| <ruby>大<rp>【</rp><rt>だい</rt><rp>】</rp>事<rp>【</rp><rt>じ</rt><rp>】</rp></ruby> | daiji | important |
 ## 魔...
-## Past tense
-|う-verb|て-form|Past tense|Note|
-|---|---|---|---|
-|倒す|倒して|倒した|Genki 1 p. 214|
-## ~からといって
-* から
-* と
-* 言う -> 言って
-## Noun + じゃない
-* Genki 1 p. 190
+### Vocabulary
+| Word | Romaji | Meaning |
+|---|---|---|
+| <ruby>魔<rp>【</rp><rt>ま</rt><rp>】</rp>王<rp>【</rp><rt>おう</rt><rp>】</rp></ruby> | maō | Satan |
+| <ruby>倒<rp>【</rp><rt>たお</rt><rp>】</rp>す<rt></rt></ruby> | taosu | to throw down |
+| からといって | karatoitte | just because |
+| <ruby>終<rp>【</rp><rt>お</rt><rp>】</rp>わり<rt></rt></ruby> | owari | end |
 ## こ...
-### の
-* この先 の 人生
-* 人生 の ほう
-  * の方
+### Vocabulary
+| Word | Romaji | Meaning |
+|---|---|---|
+| <ruby>この<rt></rt>先<rp>【</rp><rt>さき</rt><rp>】</rp></ruby> | konosaki | beyond this point |
+| <ruby>人<rp>【</rp><rt>じん</rt><rp>】</rp>生<rp>【</rp><rt>せい</rt><rp>】</rp></ruby> | jinsei | (one's) life |
+| ほう | hō | direction |
+| <ruby>長<rp>【</rp><rt>なが</rt><rp>】</rp>い<rt></rt></ruby> | nagai | long (distance, length) |
 ## そ...
-### そうですか
-* Genki 1 p. 44
+| Word | Romaji | Meaning |
+|---|---|---|
+| それ | sore | that |
+| そうか | sōka | is that so? |
+## フ...
+| Word | Romaji | Meaning |
+|---|---|---|
+| フリーレン | furīren | Frieren |
 ## 君...
-### できる
-* https://www.tofugu.com/japanese-grammar/verb-potential-form-reru/
-### ほど
-## 長...
-### もの
-### なる
-### ん
-### だろう
-* https://www.tofugu.com/japanese-grammar/darou/
-* https://www.tofugu.com/japanese-grammar/deshou/
-## そ...
-### かも
+
